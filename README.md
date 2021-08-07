@@ -1,2 +1,2 @@
 # javascript-demo
-fundamentals 2
+this repository is for saving folderS and files used in learning javascript via udemy
